@@ -1,4 +1,4 @@
-# AI Course Repository
+# AI Course Repo
 
 Welcome to the AI Course repository! This collection contains comprehensive resources and materials designed to help you master the fundamentals and advanced concepts of Artificial Intelligence (AI) and its related fields.
 
